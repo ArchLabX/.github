@@ -8,12 +8,12 @@
     
     <style>
         .theme-icon {
-        color: #000000;
+        color: #ffffff;
         }
 
         @media (prefers-color-scheme: dark) {
         .theme-icon {
-            color: #ffffff;
+            color: #000000;
         }
         }
 
